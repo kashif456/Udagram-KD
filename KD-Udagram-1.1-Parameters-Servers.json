@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Udagram-1"
+	},
+	{
+		"ParameterKey": "EnvironmentNameLowerCase",
+		"ParameterValue": "udagram-1"
+	}	
+]
